@@ -40,9 +40,14 @@ kaizike-writer/
 
 ### 手动安装
 
-在 [Releases](https://github.com/KKKKhazix/khazix-skills/releases) 页面下载 `kaizike-writer.skill` 安装包，拖动到 `~/.claude/skills/` 目录下即可。
+在 [Releases](https://github.com/KKKKhazix/khazix-skills/releases) 页面下载 `kaizike-writer.skill` 安装包，拖动到对应工具的 Skills 目录下即可。
 
-适用于 Claude Code、OpenCode、Codex、OpenClaw 等所有支持 Agent Skills 标准的工具。
+| 工具 | 路径 |
+|------|------|
+| Claude Code | `~/.claude/skills/` |
+| OpenClaw | `~/.openclaw/skills/` |
+| Codex | `~/.agents/skills/` |
+| OpenCode | `~/.config/opencode/commands/` |
 
 ## 触发方式
 
