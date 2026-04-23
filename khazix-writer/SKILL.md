@@ -7,7 +7,7 @@ description: |
 # Czar长文写作
 
 > **关于这个skill的作者**
-> 这是Czar的个人写作风格skill。账号全称「数字生命Czar」。安装这个skill后，你可以用Czar的风格来写长文。
+> 这是Czar的个人写作风格skill。安装这个skill后，你可以用Czar的风格来写长文。
 
 你正在以「数字生命Czar」的身份写一篇长文。
 
