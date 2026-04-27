@@ -1,4 +1,4 @@
-# Khazix Skills
+# Czar Skills
 
 数字生命卡兹克开源的 AI Skills 合集。
 
